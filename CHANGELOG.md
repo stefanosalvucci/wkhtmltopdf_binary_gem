@@ -1,6 +1,17 @@
-# 0.12.6.x
+# 0.12.6.8
 
-- Setup of Github action automation for Linux/MacOS builds
+- Add support for Ubuntu 24.04 using the Ubuntu 22.04 binary
+- Add support for Linux Mint 22 using the Ubuntu 22.04 binary
+- Add support for Alibaba Cloud Linux using the CentOS 8 binary
+- Add support for AlmaLinux using the CentOS 8 binary
+- Fix Amazon Linux 2023 support using the CentOS binaries
+
+# 0.12.6.7
+
+- Setup of GitHub action test automation for Linux/MacOS builds
+- Add URLs to gemspec for inclusion on Rubygems.org
+- Add support for several new Linux binaries for Debian, Centos, Ubuntu, Mint, Oracle, Tuxedo
+- Add support for several arm64 Linux binaries
 
 # 0.12.6.6
 
@@ -72,4 +83,3 @@ Update MacOS `wkhtmltopdf` binary to 0.9.9
 
 # 0.9.9
 Update `wkhtmltopdf` binaries with version 0.9.9
-
