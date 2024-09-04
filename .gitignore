@@ -27,4 +27,3 @@ bin/wkhtmltopdf_ubuntu_18.04_i386
 bin/wkhtmltopdf_ubuntu_20.04_amd64
 bin/wkhtmltopdf_ubuntu_20.04_arm64
 bin/wkhtmltopdf_ubuntu_21.10_amd64
-bin/wkhtmltopdf_ubuntu_22.04_amd64
